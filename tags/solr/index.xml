@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Solr on SPPanLogs</title>
+    <link>https://sppan24.github.io/tags/solr/</link>
+    <description>Recent content in Solr on SPPanLogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>sppan24@163.com (SPPan)</managingEditor>
+    <webMaster>sppan24@163.com (SPPan)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 22 Mar 2020 22:53:19 +0800</lastBuildDate>
+    <sy:updatePeriod>monthly</sy:updatePeriod>
+    
+        <atom:link href="https://sppan24.github.io/tags/solr/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Solr清空CORE的数据</title>
+        <link>https://sppan24.github.io/posts/solr/solr%E6%B8%85%E7%A9%BAcore%E7%9A%84%E6%95%B0%E6%8D%AE/</link>
+        <pubDate>Sun, 22 Mar 2020 22:53:19 +0800</pubDate>
+        <author>sppan24@163.com (SPPan)</author>
+        <atom:modified>Sun, 22 Mar 2020 22:53:19 +0800</atom:modified>
+        <guid>https://sppan24.github.io/posts/solr/solr%E6%B8%85%E7%A9%BAcore%E7%9A%84%E6%95%B0%E6%8D%AE/</guid>
+        <description>在使用Solr做全文检索的过程中，难免需要清空原有的数据再进行索引的重建，下面介绍了四种清空Solr中指定Core数据的方法。 方式一 基于So</description>
+        
+        <dc:creator>SPPan</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Solr</category>
+            
+          
+        
+        
+          
+            
+              <category>Solr</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

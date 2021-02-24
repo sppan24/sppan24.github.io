@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Technology on SPPanLogs</title>
+    <link>https://sppan24.github.io/categories/technology/</link>
+    <description>Recent content in Technology on SPPanLogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>sppan24@163.com (SPPan)</managingEditor>
+    <webMaster>sppan24@163.com (SPPan)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 06 Jan 2021 17:12:26 +0800</lastBuildDate>
+    <sy:updatePeriod>monthly</sy:updatePeriod>
+    
+        <atom:link href="https://sppan24.github.io/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>文件BOM头信息</title>
+        <link>https://sppan24.github.io/posts/technology/%E6%96%87%E4%BB%B6bom%E5%A4%B4%E4%BF%A1%E6%81%AF/</link>
+        <pubDate>Wed, 06 Jan 2021 17:12:26 +0800</pubDate>
+        <author>sppan24@163.com (SPPan)</author>
+        <atom:modified>Wed, 06 Jan 2021 17:12:26 +0800</atom:modified>
+        <guid>https://sppan24.github.io/posts/technology/%E6%96%87%E4%BB%B6bom%E5%A4%B4%E4%BF%A1%E6%81%AF/</guid>
+        <description>最近在做CSV文件导出的时候，在Windows下面使用Excel打开总是会出现乱码的情况，需要先将文件转存成GB2312格式才能正常打开，于</description>
+        
+        <dc:creator>SPPan</dc:creator>
+        
+        
+        
+        
+        
+          
+            
+              <category>Technology</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

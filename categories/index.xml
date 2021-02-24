@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Categories on SPPanLogs</title>
+    <link>https://sppan24.github.io/categories/</link>
+    <description>Recent content in Categories on SPPanLogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>sppan24@163.com (SPPan)</managingEditor>
+    <webMaster>sppan24@163.com (SPPan)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 02 Feb 2021 14:32:37 +0800</lastBuildDate>
+    <sy:updatePeriod>monthly</sy:updatePeriod>
+    
+        <atom:link href="https://sppan24.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Linux</title>
+        <link>https://sppan24.github.io/categories/linux/</link>
+        <pubDate>Tue, 02 Feb 2021 14:32:37 +0800</pubDate>
+        <author>sppan24@163.com (SPPan)</author>
+        
+        <guid>https://sppan24.github.io/categories/linux/</guid>
+        <description></description>
+        
+        <dc:creator>SPPan</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Technology</title>
+        <link>https://sppan24.github.io/categories/technology/</link>
+        <pubDate>Wed, 06 Jan 2021 17:12:26 +0800</pubDate>
+        <author>sppan24@163.com (SPPan)</author>
+        
+        <guid>https://sppan24.github.io/categories/technology/</guid>
+        <description></description>
+        
+        <dc:creator>SPPan</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Other</title>
+        <link>https://sppan24.github.io/categories/other/</link>
+        <pubDate>Mon, 28 Dec 2020 15:58:04 +0800</pubDate>
+        <author>sppan24@163.com (SPPan)</author>
+        
+        <guid>https://sppan24.github.io/categories/other/</guid>
+        <description></description>
+        
+        <dc:creator>SPPan</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Solr</title>
+        <link>https://sppan24.github.io/categories/solr/</link>
+        <pubDate>Sun, 22 Mar 2020 22:53:19 +0800</pubDate>
+        <author>sppan24@163.com (SPPan)</author>
+        
+        <guid>https://sppan24.github.io/categories/solr/</guid>
+        <description></description>
+        
+        <dc:creator>SPPan</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Soft</title>
+        <link>https://sppan24.github.io/categories/soft/</link>
+        <pubDate>Wed, 01 Jan 2020 22:22:04 +0800</pubDate>
+        <author>sppan24@163.com (SPPan)</author>
+        
+        <guid>https://sppan24.github.io/categories/soft/</guid>
+        <description></description>
+        
+        <dc:creator>SPPan</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>排序算法</title>
+        <link>https://sppan24.github.io/categories/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</link>
+        <pubDate>Wed, 11 Sep 2019 11:00:25 +0800</pubDate>
+        <author>sppan24@163.com (SPPan)</author>
+        
+        <guid>https://sppan24.github.io/categories/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</guid>
+        <description></description>
+        
+        <dc:creator>SPPan</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

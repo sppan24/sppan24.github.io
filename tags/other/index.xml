@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Other on SPPanLogs</title>
+    <link>https://sppan24.github.io/tags/other/</link>
+    <description>Recent content in Other on SPPanLogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>sppan24@163.com (SPPan)</managingEditor>
+    <webMaster>sppan24@163.com (SPPan)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 28 Dec 2020 15:58:04 +0800</lastBuildDate>
+    <sy:updatePeriod>monthly</sy:updatePeriod>
+    
+        <atom:link href="https://sppan24.github.io/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>一地鸡毛的中年</title>
+        <link>https://sppan24.github.io/posts/other/%E4%B8%80%E5%9C%B0%E9%B8%A1%E6%AF%9B%E7%9A%84%E4%B8%AD%E5%B9%B4/</link>
+        <pubDate>Mon, 28 Dec 2020 15:58:04 +0800</pubDate>
+        <author>sppan24@163.com (SPPan)</author>
+        <atom:modified>Mon, 28 Dec 2020 15:58:04 +0800</atom:modified>
+        <guid>https://sppan24.github.io/posts/other/%E4%B8%80%E5%9C%B0%E9%B8%A1%E6%AF%9B%E7%9A%84%E4%B8%AD%E5%B9%B4/</guid>
+        <description>路虽远，行则将至。事虽难，做则必成。我们只管向前走，也许走着走着花就开了。也许在未来的某天，回首曾经的中年，我们会感慨道：&amp;ldquo;看，</description>
+        
+        <dc:creator>SPPan</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Other</category>
+            
+          
+        
+        
+          
+            
+              <category>Other</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
