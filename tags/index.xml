@@ -14,7 +14,7 @@
     <managingEditor>sppan24@163.com (SPPan)</managingEditor>
     <webMaster>sppan24@163.com (SPPan)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 02 Feb 2021 14:32:37 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 03 Mar 2021 14:23:29 +0800</lastBuildDate>
     <sy:updatePeriod>monthly</sy:updatePeriod>
     
         <atom:link href="https://sppan24.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -22,12 +22,12 @@
 
       
       <item>
-        <title>Linux</title>
-        <link>https://sppan24.github.io/tags/linux/</link>
-        <pubDate>Tue, 02 Feb 2021 14:32:37 +0800</pubDate>
+        <title>Other</title>
+        <link>https://sppan24.github.io/tags/other/</link>
+        <pubDate>Wed, 03 Mar 2021 14:23:29 +0800</pubDate>
         <author>sppan24@163.com (SPPan)</author>
         
-        <guid>https://sppan24.github.io/tags/linux/</guid>
+        <guid>https://sppan24.github.io/tags/other/</guid>
         <description></description>
         
         <dc:creator>SPPan</dc:creator>
@@ -40,12 +40,12 @@
       </item>
       
       <item>
-        <title>Other</title>
-        <link>https://sppan24.github.io/tags/other/</link>
-        <pubDate>Mon, 28 Dec 2020 15:58:04 +0800</pubDate>
+        <title>Linux</title>
+        <link>https://sppan24.github.io/tags/linux/</link>
+        <pubDate>Tue, 02 Feb 2021 14:32:37 +0800</pubDate>
         <author>sppan24@163.com (SPPan)</author>
         
-        <guid>https://sppan24.github.io/tags/other/</guid>
+        <guid>https://sppan24.github.io/tags/linux/</guid>
         <description></description>
         
         <dc:creator>SPPan</dc:creator>
